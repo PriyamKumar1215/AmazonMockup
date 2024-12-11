@@ -1,0 +1,26 @@
+# Node modules (if using any package manager)
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE specific files (e.g., VS Code, IntelliJ)
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Compiled files (if you use any preprocessing or build tools)
+*.min.js
+*.css
+
+# Package dependency files (e.g., if you use npm or yarn)
+package-lock.json
+yarn.lock
+
+# Environment files (for sensitive credentials, if any)
+.env
